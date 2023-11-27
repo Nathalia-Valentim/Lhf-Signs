@@ -1,0 +1,59 @@
+.botao {
+    height: 38px;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    color: rgb(82, 82, 82); 
+    border-radius: 5px;
+}
+
+.botao:hover {
+    background-color: #8eacee;
+    color: white;
+}
+
+.botao2 {
+    height: 38px;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    color: rgb(0, 0, 0); 
+    border-radius: 5px;
+}
+
+.botao2:hover {
+    background-color: #8eacee;
+    color: white;
+}
+
+.botao3 {
+    height: 38px;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #c599a6; 
+    color: #2c0612; 
+    border-radius: 5px;
+    border: 2px solid #a76378;
+}
+
+.botao3:hover {
+    background-color: #a76378;
+    color: white;
+  }
+
