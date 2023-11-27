@@ -32,7 +32,26 @@
 }
 
 .botao2:hover {
-    background-color: #8eacee;
+    background-color: #ef8184;
+    color: white;
+}
+
+.botao2_0 {
+    height: 38px;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    color: rgb(0, 0, 0); 
+    border-radius: 5px;
+}
+
+.botao2_0:hover {
+    background-color: #a8c896;
     color: white;
 }
 
